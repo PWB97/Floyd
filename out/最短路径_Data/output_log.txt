@@ -1,0 +1,29 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 10.1]
+    Renderer: Parallels Display Adapter (WDDM) (ID=0x4005)
+    Vendor:   Parallels
+    VRAM:     512 MB
+    Driver:   12.1.41491.0
+Begin MonoManager ReloadAssembly
+Platform assembly: \\Mac\Home\Downloads\工程实践\New Unity Project 1\最短路径_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading \\Mac\Home\Downloads\工程实践\New Unity Project 1\最短路径_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: \\Mac\Home\Downloads\工程实践\New Unity Project 1\最短路径_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading \\Mac\Home\Downloads\工程实践\New Unity Project 1\最短路径_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: \\Mac\Home\Downloads\工程实践\New Unity Project 1\最短路径_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading \\Mac\Home\Downloads\工程实践\New Unity Project 1\最短路径_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: \\Mac\Home\Downloads\工程实践\New Unity Project 1\最短路径_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading \\Mac\Home\Downloads\工程实践\New Unity Project 1\最短路径_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: \\Mac\Home\Downloads\工程实践\New Unity Project 1\最短路径_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading \\Mac\Home\Downloads\工程实践\New Unity Project 1\最短路径_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.162 seconds
+Platform assembly: \\Mac\Home\Downloads\工程实践\New Unity Project 1\最短路径_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: \\Mac\Home\Downloads\工程实践\New Unity Project 1\最短路径_Data\Managed\System.dll (this message is harmless)
+<RI> Initializing input.
+<RI> Input initialized.
+desktop: 3840x2400 60Hz; virtual: 3840x2400 at 0,0
+<RI> Initialized touch support.
+UnloadTime: 4.526400 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 258c -> priority: 1 
